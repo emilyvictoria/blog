@@ -26,7 +26,8 @@
 
         <h1>{{ site.title }}</h1>
 
-        {{ body }}
+        <div class="content">
+		{{ body }}
 
         {% for post in site.posts %}
         	<article>
@@ -35,7 +36,7 @@
         		{{ post.teaser }}        
         	</article>
         {% endfor %}
-
+		</div>
 
 	</div><!-- end container -->
 	

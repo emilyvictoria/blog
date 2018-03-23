@@ -50,5 +50,6 @@ body {
 	display: grid;
 	grid-template-columns: 1fr 1fr 1fr 1fr;
 }
-.content {
+.article {
 	grid-column: 2 / 4;
+}

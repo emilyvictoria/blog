@@ -47,5 +47,8 @@ body {
 	max-width: 1200px;
 	padding: 2em;
 	background: rgba(147, 161, 71, .3);
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr 1fr;
 }
-
+.content {
+	grid-column: 2 / 4;

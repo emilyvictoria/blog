@@ -30,7 +30,7 @@ body {
 	font-family: "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
 	font-size: 16px;
 	line-height: 1.5em;
-	color: #bbb;
+	color: #black;
 }
 
 /*	Generally, you will only want one container element in
@@ -46,7 +46,6 @@ body {
 	width: 90%;
 	max-width: 1200px;
 	padding: 2em;
-	border: 5px solid #eee;
 	background: rgba(147, 161, 71, .3);
 }
 

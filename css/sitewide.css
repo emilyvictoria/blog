@@ -47,7 +47,7 @@ body {
 	max-width: 1200px;
 	padding: 2em;
 	background: url(../img/cactus.jpg);
-	background-image: left;
+	background-image: 10%;
 	display: grid;
 	grid-template-columns: 1fr 1fr 1fr 1fr;
 }
@@ -56,4 +56,5 @@ body {
 }
 .a {
 	text-decoration: none;
+	color: white;
 }

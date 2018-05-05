@@ -1,5 +1,3 @@
 # web1 self-publishing
 
-hello@imaginaryterrain.com
-
-[Students: edit this file!]
+Background image of a cactus: Photo by Scott Webb from Pexels

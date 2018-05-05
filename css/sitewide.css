@@ -46,7 +46,7 @@ body {
 	width: 90%;
 	max-width: 1200px;
 	padding: 2em;
-	background: url(../img/plants.jpg);
+	background: url(../img/cactus.jpg);
 	background-image: 100%;
 	display: grid;
 	grid-template-columns: 1fr 1fr 1fr 1fr;

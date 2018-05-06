@@ -1,6 +1,6 @@
 ---
-title: "Thought"
-description: "A thought. Just a thought."
+title: "Weiner Dog"
+description: ":("
 ---
 
 ## It’s still so cold the wiener dog in the Greenbriar still needs to wear his Christmas sweater

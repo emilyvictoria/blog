@@ -53,7 +53,9 @@ body {
 	grid-gap: 4%;
 	grid-template-columns: 1fr 1fr 1fr 1fr;
 }
-.article {
+.content {
+	background-color: rgba(255, 255, 255, .5);
+	.article {
 	grid-column: 2 / 4;
 }
 .a {

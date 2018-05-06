@@ -49,6 +49,7 @@ body {
 	background: url(../img/cactus.jpg);
 	background-image: width:50% height:100%;
 	display: grid;
+	grid-gap: 10%;
 	grid-template-columns: 1fr 1fr 1fr 1fr;
 }
 .article {

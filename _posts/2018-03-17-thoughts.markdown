@@ -3,4 +3,4 @@ title: "Thoughts"
 description: "A thought. Just a thought."
 ---
 ## “Life is full of bumps.” 
-# -today’s edgy downtown LA graffiti
+### -today’s edgy downtown LA graffiti

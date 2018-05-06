@@ -1,5 +1,5 @@
 ---
-title: "Thoughts"
+title: "Graffiti"
 description: "A thought. Just a thought."
 ---
 ## “Life is full of bumps.” 

@@ -1,5 +1,5 @@
 ---
-title: "Thoughts"
+title: "A thought from Denver"
 description: "A thought. Just a thought."
 ---
 

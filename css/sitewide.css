@@ -58,7 +58,11 @@ body {
 	text-decoration: none;
 	color: white;
 	    -webkit-text-decoration-skip: none;
+	
 }
+.h2 {
+	text-decoration: none;
+}	
 .href {
 	text-decoration: none;
 }

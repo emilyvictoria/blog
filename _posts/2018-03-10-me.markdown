@@ -1,0 +1,6 @@
+---
+title: "An Announcement"
+description: "An announcement regarding an event over a year from now"
+---
+
+## My 21st birthday will be held at the bar inside of Whole Foods

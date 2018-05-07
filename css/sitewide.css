@@ -75,3 +75,10 @@ h2 {
 h3 {
 	color: black;
 }
+
+
+@media (max-width: 660px) {
+
+	.container {
+	display: block;
+	}
